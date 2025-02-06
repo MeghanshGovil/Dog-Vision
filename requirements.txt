@@ -1,0 +1,10 @@
+IPython
+datetime
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
+tensorflow
+tensorflow_hub
