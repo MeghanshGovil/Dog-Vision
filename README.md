@@ -62,7 +62,3 @@ custom_preds = loaded_full_model.predict(custom_data)
 
 This project is open-source and available under the MIT License.
 
----
-
-🔗 **Contributors:** Meghansh Govil
-
