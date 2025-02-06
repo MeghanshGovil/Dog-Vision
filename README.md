@@ -41,9 +41,6 @@ Dog-Vision/
 │── requirements.txt         # Dependencies
 │── data/                    # Folder for dataset (if needed)
 │── models/                  # Folder for trained models
-│── src/                     # Source code (if applicable)
-│── utils/                   # Helper functions
-│── .gitignore               # Ignore unnecessary files
 ```
 
 ## 🚀 Usage
