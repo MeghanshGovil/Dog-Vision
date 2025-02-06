@@ -9,6 +9,8 @@ Dog Vision is a deep learning-based image classification project that predicts d
 - Supports custom image predictions.
 - Google Drive integration for dataset storage.
 
+## 📌 Data
+- Data Used for training and testing is from Kaggle (https://www.kaggle.com/c/dog-breed-identification/overview)
 ## 🛠 Setup Instructions
 
 ### 1️⃣ Clone the Repository
@@ -39,7 +41,6 @@ Dog-Vision/
 │── Dog_Vision.ipynb         # Main notebook for training & inference
 │── README.md                # Project description & setup
 │── requirements.txt         # Dependencies
-│── data/                    # Folder for dataset (if needed)
 │── models/                  # Folder for trained models
 ```
 
